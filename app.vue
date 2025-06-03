@@ -34,3 +34,12 @@
     bottom: 0px;
   }
 </style>
+
+<script setup lang="ts">
+  useHead({
+    title: '無駄なwork',
+    meta: [
+      { name: 'description', content: '無駄なwork' }
+    ]
+  })
+</script>
