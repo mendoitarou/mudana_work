@@ -11,3 +11,9 @@
 **ErrorPage**
 
 [【Nuxt.js】404エラーとその他エラーで表示させるメッセージを変える方法 - Qiita](https://qiita.com/star09036/items/998c17288880134f225f)
+
+**Color_Mode**
+
+[Nuxt Color Mode](https://color-mode.nuxtjs.org/)
+
+[Nuxt 3 + Tailwind CSS でダークモードを実装する](https://zenn.dev/tsukiyama3/articles/4e0e23097fdb3f)
