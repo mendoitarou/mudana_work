@@ -14,6 +14,24 @@
 </template>
 
 <style>
+  .light-mode body {
+    background-color: white;
+    color: black;
+  }
+  .dark-mode body {
+    background-color: #091a28;
+    color: #ebf4f1;
+  }
+  .sepia-mode body {
+    background-color: #f1e7d0;
+    color: #433422;
+  }
+
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+
   .main {
     font-size: xx-large;
     position: absolute;
